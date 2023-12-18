@@ -8,26 +8,25 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\korol\\.nuget\\packages\\": {}
+    "/Users/yulia/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\Adventure_Chest\\Source\\Adventure_Chest\\Adventure_Chest\\Adventure_Chest.csproj",
+      "projectUniqueName": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/Adventure_Chest.csproj",
       "projectName": "Adventure_Chest",
-      "projectPath": "C:\\Projects\\Adventure_Chest\\Source\\Adventure_Chest\\Adventure_Chest\\Adventure_Chest.csproj",
-      "packagesPath": "C:\\Users\\korol\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\Adventure_Chest\\Source\\Adventure_Chest\\Adventure_Chest\\obj\\",
+      "projectPath": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/Adventure_Chest.csproj",
+      "packagesPath": "/Users/yulia/.nuget/packages/",
+      "outputPath": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\korol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/yulia/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "/usr/local/share/dotnet/library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +63,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.203/RuntimeIdentifierGraph.json"
       }
     }
   }
