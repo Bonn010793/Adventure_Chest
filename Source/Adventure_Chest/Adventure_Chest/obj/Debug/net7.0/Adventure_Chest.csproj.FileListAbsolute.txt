@@ -29,3 +29,7 @@
 /Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/obj/Debug/net7.0/Adventure_Chest.pdb
 /Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/obj/Debug/net7.0/Adventure_Chest.genruntimeconfig.cache
 /Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/obj/Debug/net7.0/ref/Adventure_Chest.dll
+/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/bin/Debug/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/bin/Debug/net7.0/Npgsql.dll
+/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/obj/Debug/net7.0/Adventure_Chest.csproj.CopyComplete

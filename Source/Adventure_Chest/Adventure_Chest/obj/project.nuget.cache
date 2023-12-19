@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "KShgamNwuf9gHSVRmyyW3w38XunRlMi3O82UtU8qYfGK6xR3NE8kTj4g5hdG/x0w4sX9wNKOLJ0UZlGTOljbXA==",
+  "dgSpecHash": "+3XA6Ne1qxy1I6SfFm3yIS+BhKWUm/GLt5xhVhO4axol71JP+L9Paysldqtx06vKFadn2TAWdCSnTcqGNjiwxQ==",
   "success": true,
   "projectFilePath": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/Adventure_Chest.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/yulia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/yulia/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/yulia/.nuget/packages/npgsql/8.0.1/npgsql.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
