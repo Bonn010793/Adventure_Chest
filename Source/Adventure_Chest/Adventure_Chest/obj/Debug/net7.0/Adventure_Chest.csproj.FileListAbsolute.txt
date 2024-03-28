@@ -33,5 +33,3 @@
 /Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/bin/Debug/net7.0/Microsoft.Extensions.Logging.Abstractions.dll
 /Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/bin/Debug/net7.0/Npgsql.dll
 /Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/obj/Debug/net7.0/Adventure_Chest.csproj.CopyComplete
-/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/bin/Debug/net7.0/app.config
-/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/bin/Debug/net7.0/Adventure_Chest.dll.config

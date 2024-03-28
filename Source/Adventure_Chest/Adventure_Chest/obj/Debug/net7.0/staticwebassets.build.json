@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SguRdR5bpbB86SNo/RpAQVSF44elWhZIh0mfYSULPvk=",
+  "Hash": "WRVhX07gHjgR5i+QAk1xqLb1fnMIR71kO90DnglOqJA=",
   "Source": "Adventure_Chest",
   "BasePath": "_content/Adventure_Chest",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/obj/Debug/net7.0/scopedcss/projectbundle/Adventure_Chest.bundle.scp.css"
     },
     {
+      "Identity": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/css/normalize.min.css",
+      "SourceId": "Adventure_Chest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/",
+      "BasePath": "_content/Adventure_Chest",
+      "RelativePath": "css/normalize.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/normalize.min.css"
+    },
+    {
       "Identity": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/css/site.css",
       "SourceId": "Adventure_Chest",
       "SourceType": "Discovered",
@@ -83,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/favicon.ico"
+    },
+    {
+      "Identity": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/images/fon_main.jpeg",
+      "SourceId": "Adventure_Chest",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/",
+      "BasePath": "_content/Adventure_Chest",
+      "RelativePath": "images/fon_main.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/fon_main.jpeg"
     },
     {
       "Identity": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/js/site.js",

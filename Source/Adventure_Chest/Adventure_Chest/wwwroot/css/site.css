@@ -1,3 +1,10 @@
+:root
+{
+    --lato:"Lato",sans-serif;
+    --w-container: 1440px;
+    --dark: #000000;
+    --dark-rgb: 0, 0, 0;
+}
 html {
   font-size: 14px;
 }
@@ -13,10 +20,16 @@ html {
 }
 
 html {
-  position: relative;
-  min-height: 100%;
+    position: relative;
+    min-height: 100%;
 }
 
 body {
-  margin-bottom: 60px;
+    font-family: var(--lato);
+    background-image: url(../images/fon_main.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.container{
+    background-image:url(../images/fon-container.png)
 }

@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets/Adventure_Chest.bundle.scp.css"
     },
     {
+      "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/css/normalize.min.css",
+      "PackagePath": "staticwebassets/css/normalize.min.css"
+    },
+    {
       "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/css/site.css",
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
       "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/favicon.ico",
       "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/images/fon_main.jpeg",
+      "PackagePath": "staticwebassets/images/fon_main.jpeg"
     },
     {
       "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/js/site.js",
