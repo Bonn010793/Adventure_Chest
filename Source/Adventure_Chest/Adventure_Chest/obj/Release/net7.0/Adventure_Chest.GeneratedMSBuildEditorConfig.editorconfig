@@ -16,16 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/Modules/Inlet.cshtml]
-build_metadata.AdditionalFiles.TargetPath = TW9kdWxlcy9JbmxldC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
 [/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/Pages/Inlet.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5sZXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/Pages/PlayingField.cshtml]
