@@ -11,11 +11,13 @@
   <ItemGroup>
     <None Remove="Controllers\" />
     <None Remove="DB\" />
+    <None Remove="Modules\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="DB\" />
     <Folder Include="wwwroot\images\" />
+    <Folder Include="Modules\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Npgsql" Version="8.0.2" />

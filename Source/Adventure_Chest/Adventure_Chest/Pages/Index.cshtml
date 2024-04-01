@@ -1,4 +1,4 @@
-﻿@page
+﻿
 @model IndexModel
 @{
     ViewData["Title"] = "Adventure_Chest";
@@ -6,7 +6,32 @@
 
 <div class="text-center">
     <h1 class="display-4">Сундук приключений</h1>
-    <div class="container">
+</div>
+<div class="container_main">
+    <!--<h2 class="text-center">Приключения начинаются</h2>-->
+    <main>
+        <div class="grid">
+            <div class="grid_item">
+                <h2 class="grid_title">Увлекательный мир игры</h2>
+                <p class="grid_description">
+                    Врата подземелья открылись! Наберите
+                    отряд верных сопартийцев, припрячте в рукавк козырей и решите
+                    для себя: готовы ли вы рискнуть всем ради славы и богатства?
+                </p>
+            </div>
+            <div class="grid_item">
+                <a href="./PlayingField" class="grid_link play">Начать игру</a>
+                <a href="./Rules" class="grid_link rules">Правила</a>
+                <a href="#" class="grid_link play">Персонажи</a>
+                <a href="#" class="grid_link play">ЧТО ТО</a>
+            </div>
+            <div class="grid_item">
+                <a href="./Register" class="grid_link_peson">Регистация / </a>
+                <a href="#" id="btnclick" class="grid_link_peson">Вход</a>
+            </div>
+        </div>
+        <!-- @RenderSection("Modal")-->
+        </main>
+
 
     </div>
-</div>

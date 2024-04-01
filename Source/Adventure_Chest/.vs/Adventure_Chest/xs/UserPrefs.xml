@@ -1,0 +1,59 @@
+﻿<Properties StartupConfiguration="{A64E8781-7C00-4D04-A130-30F35D926883}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Adventure__Chest PreferredExecutionTarget="/Applications/Yandex.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adventure_Chest/Modules/Inlet.cshtml">
+    <Files>
+      <File FileName="Adventure_Chest/wwwroot/lib/bootstrap/LICENSE" />
+      <File FileName="Adventure_Chest/Models/User.cs" />
+      <File FileName="Adventure_Chest/Models/Achievements.cs" />
+      <File FileName="Adventure_Chest/Models/UserAchievements.cs" />
+      <File FileName="Adventure_Chest/Models/UnitType.cs" />
+      <File FileName="Adventure_Chest/Controllers/MainController.cs" Line="13" Column="2" />
+      <File FileName="Adventure_Chest/Pages/Shared/_Layout.cshtml" Line="32" Column="8" />
+      <File FileName="Adventure_Chest/Pages/Index.cshtml" />
+      <File FileName="Adventure_Chest/Pages/Shared/_ValidationScriptsPartial.cshtml" />
+      <File FileName="Adventure_Chest/wwwroot/css/normalize.min.css" />
+      <File FileName="Adventure_Chest/appsettings.json" />
+      <File FileName="Adventure_Chest/wwwroot/css/site.css" />
+      <File FileName="Adventure_Chest/Pages/PlayingField.cshtml" />
+      <File FileName="Adventure_Chest/Pages/Rules.cshtml" />
+      <File FileName="Adventure_Chest/Modules/Inlet.cshtml" Line="22" Column="1" />
+      <File FileName="Adventure_Chest/Pages/Register.cshtml.cs" />
+      <File FileName="Adventure_Chest/Program.cs" />
+      <File FileName="Adventure_Chest/Pages/Register.cshtml" />
+      <File FileName="Adventure_Chest/Pages/Error.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adventure_Chest" expanded="True">
+            <Node name="Adventure_Chest" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="Controllers" expanded="True" />
+              <Node name="DB" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Modules" expanded="True">
+                <Node name="Inlet.cshtml" selected="True" />
+              </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

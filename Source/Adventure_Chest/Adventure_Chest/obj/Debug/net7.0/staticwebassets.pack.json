@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/Adventure_Chest.bundle.scp.css"
     },
     {
+      "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
       "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/css/normalize.min.css",
       "PackagePath": "staticwebassets/css/normalize.min.css"
     },
@@ -17,8 +21,16 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/images/fon-container.png",
+      "PackagePath": "staticwebassets/images/fon-container.png"
+    },
+    {
       "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/images/fon_main.jpeg",
       "PackagePath": "staticwebassets/images/fon_main.jpeg"
+    },
+    {
+      "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/images/sticker.webp",
+      "PackagePath": "staticwebassets/images/sticker.webp"
     },
     {
       "Id": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/wwwroot/js/site.js",
