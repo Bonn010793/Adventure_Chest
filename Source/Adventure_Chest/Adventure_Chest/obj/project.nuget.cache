@@ -1,11 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "H2EC0efmxE6wAiIlSMSUtBnhngOmkp/zO6+3JNWHnFH0/Ae4yfD5x0dMDP2IAVg0vO/TEJ7QC4uMbyoUUOr+/g==",
+  "dgSpecHash": "XLF/cyjQlNrSGW7LiOUqkf6N7neWWu0V2w8By/tsw6poLTTPyeOW8r/9FHcoVJLJQ2eaVkfeJcEkEEGZYl8qog==",
   "success": true,
   "projectFilePath": "/Users/yulia/Projects/Adventure_Chest/Source/Adventure_Chest/Adventure_Chest/Adventure_Chest.csproj",
   "expectedPackageFiles": [
+    "/Users/yulia/.nuget/packages/microsoft.entityframeworkcore/7.0.17/microsoft.entityframeworkcore.7.0.17.nupkg.sha512",
+    "/Users/yulia/.nuget/packages/microsoft.entityframeworkcore.abstractions/7.0.17/microsoft.entityframeworkcore.abstractions.7.0.17.nupkg.sha512",
+    "/Users/yulia/.nuget/packages/microsoft.entityframeworkcore.analyzers/7.0.17/microsoft.entityframeworkcore.analyzers.7.0.17.nupkg.sha512",
+    "/Users/yulia/.nuget/packages/microsoft.extensions.caching.abstractions/7.0.0/microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "/Users/yulia/.nuget/packages/microsoft.extensions.caching.memory/7.0.0/microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "/Users/yulia/.nuget/packages/microsoft.extensions.dependencyinjection/7.0.0/microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
     "/Users/yulia/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/yulia/.nuget/packages/microsoft.extensions.logging/7.0.0/microsoft.extensions.logging.7.0.0.nupkg.sha512",
     "/Users/yulia/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "/Users/yulia/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "/Users/yulia/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
     "/Users/yulia/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512"
   ],
   "logs": []

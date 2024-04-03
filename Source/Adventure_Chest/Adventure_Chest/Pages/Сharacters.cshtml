@@ -1,5 +1,32 @@
 ﻿@page
-@{
-    ViewData["Title"] = "Персонажи";
-}
+@model Adventure_Chest.ViewModels.CartViewModel
 
+<h2>Character Cards</h2>
+
+<div class="card-container">
+    @if (Model != null && Model.Items != null)
+    {
+        <div class="card">
+            <img src="https://example.com/image.jpg" alt="Example Character" class="card-image">
+            <div class="card-body">
+                <h3>Example Character</h3>
+                <p>Quantity: 1</p>
+            </div>
+        </div>
+
+        @foreach (var item in Model.Items)
+        {
+            <div class="card">
+                <img src="@item.Character.ImageUrl" alt="@item.Character.Name" class="card-image">
+                <div class="card-body">
+                    <h3>@item.Character.Name</h3>
+                    <p>Quantity: @item.Quantity</p>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <p>No data available</p>
+    }
+</div>
